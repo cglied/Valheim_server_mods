@@ -18,7 +18,6 @@ enthaltene Mods:
 Für eine einfache Installation der minimal nötigen und einiger weiterer Mods muss der Inhalt des Ordners `Mods_recommended_set/Valheim` in den lokalen Valheim Ordner verschoben werden.  
   
 zusätzlich zu den minimal nötigen Mods enthaltene Mods:
-* [Project Auga](https://www.nexusmods.com/valheim/mods/1413) -> Overhaul aller Benutzeroberflächen im Spiel
 * [First Person Camera](https://www.nexusmods.com/valheim/mods/44) -> enables zooming into first person
 * [Farm Grid](https://www.nexusmods.com/valheim/mods/449) -> automatischer Abstand beim Pflanzen von Ess-Gewächsen
 * [Clock](https://www.nexusmods.com/valheim/mods/85) -> Anzeige der aktuellen (Tages-)Zeit
@@ -47,3 +46,8 @@ Beispielsweise wäre bei der Mod "Auga" danach die Mod-Datei unter `<Pfad zum Va
 * [Any Portal](https://www.nexusmods.com/valheim/mods/170) -> Portale werden nicht mehr paarweise verbunden, stattdessen Zielauswahl eines Portals dynamisch über Drop-Down Menü (in diesem Repository enthalten)
     
 müssen installiert sein um auf dem Server sicher und problemlos mitspielen zu können.
+  
+## Mods bei denen Probleme bekannt sind
+  
+* [Project Auga](https://www.nexusmods.com/valheim/mods/1413) -> Overhaul aller Benutzeroberflächen im Spiel. **Map Marker funktionieren nicht mehr, wenn die Mod in Kombination mit Valheim+ genutzt wird, Mod zeigt falsche, kaputte Anzeigen im Bild an, wenn eine Klasse der Mod Valheim Legends gewählt wird.**
+
