@@ -18,10 +18,8 @@ enthaltene Mods:
 Für eine einfache Installation der minimal nötigen und einiger weiterer Mods muss der Inhalt des Ordners `Mods_recommended_set/Valheim` in den lokalen Valheim Ordner verschoben werden.  
   
 zusätzlich zu den minimal nötigen Mods enthaltene Mods:
-* [First Person Camera](https://www.nexusmods.com/valheim/mods/44) -> enables zooming into first person
 * [Farm Grid](https://www.nexusmods.com/valheim/mods/449) -> automatischer Abstand beim Pflanzen von Ess-Gewächsen
 * [Clock](https://www.nexusmods.com/valheim/mods/85) -> Anzeige der aktuellen (Tages-)Zeit
-* [Discard Inventory Item](https://www.nexusmods.com/valheim/mods/45) -> ermöglicht Löschen von Gegenständen aus dem Inventar via Hotkey
 * [Merchant Whereabouts](https://www.nexusmods.com/valheim/mods/179) -> ermöglicht das Kaufen von Hinweisen auf die Position des Händlers von Raben
 * [RememberIp](https://www.nexusmods.com/valheim/mods/572) -> Speichern der ServerIP und des Server-Passworts
   
