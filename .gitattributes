@@ -1,1 +1,2 @@
 VALKEA.pdb filter=lfs diff=lfs merge=lfs -text
+Mods_recommended_set/Valheim/BepInEx/plugins/VALKEA.pdb filter=lfs diff=lfs merge=lfs -text
